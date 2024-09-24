@@ -1,0 +1,14 @@
+{
+   "name": "express",
+   "version": "0.0.1",
+   "dependencies": {
+      "argon2": "^0.29.1",
+      "cors": "^2.8.5",
+      "express": "^4.19.2",
+      "mysql2": "^2.3.3",
+      "sequelize": "^6.37.3"
+   },
+   "scripts": {
+      "start": "node server.js"
+   }
+}
